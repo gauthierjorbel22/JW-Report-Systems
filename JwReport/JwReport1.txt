@@ -1,0 +1,165 @@
+**************************
+          MARS
+**************************
+Name: TRESOR
+Surname: BISIBU
+Hours: 23
+Publication: 10
+Media: 0
+Visit: 9
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: GAUTHIER
+Surname: KABANGU
+Hours: 3
+Publication: 3
+Media: 0
+Visit: 2
+Group: WYNBERG
+Bible Study: 1
+**************************
+Name: NADEGE
+Surname: BISIBU
+Hours: 22
+Publication: 4
+Media: 1
+Visit: 2
+Group: WYNBERG
+Bible Study: 1
+**************************
+Name: HUGO
+Surname: LUYEYE
+Hours: 8
+Publication: 0
+Media: 3
+Visit: 5
+Group: WYNBERG
+Bible Study: 1
+**************************
+Name: PELAGIE
+Surname: LUYEYE
+Hours: 8
+Publication: 4
+Media: 0
+Visit: 4
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: JACK
+Surname: EKANA
+Hours: 3
+Publication: 2
+Media:0
+Visit: 1
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: RUTH
+Surname: EKANA
+Hours: 6
+Publication: 11
+Media: 0
+Visit: 3
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: MIGUEL
+Surname: ISSAKO
+Hours: 2
+Publication: 0
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: SYLVIE 
+Surname: ISSAKO
+Hours: 3
+Publication: 4
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: ARMEL
+Surname: KAMUNGA
+Hours: 8
+Publication: 5
+Media: 0
+Visit: 1
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: PATIENT
+Surname: NKULU
+Hours: 13
+Publication: 14
+Media: 0
+Visit: 12
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: PATIENT 
+Surname: KABONGO
+Hours: 0
+Publication: 0
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: KALLY
+Surname: KALAMBAY
+Hours: 10
+Publication: 10
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: EUNICE
+Surname: KALAMBAY
+Hours: 9
+Publication: 3
+Media: 1
+Visit: 3
+Group: WYNBERG
+Bible Study: 3
+**************************
+Name: NANCY
+Surname: MALELA
+Hours: 5
+Publication: 3
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: DAVID
+Surname: KUSA
+Hours: 4
+Publication: 0
+Media: 0
+Visit: 1
+Group: WYNBERG
+Bible Study: 0
+************************
+Name: PAPY
+Surname: TSHAMA
+Hours: 4
+Publication: 0
+Media: 0
+Visit: 0
+Group: WYNBERG
+Bible Study: 0
+**************************
+Name: ANNITA
+Surname: KAMBA
+Hours: 5
+Publication: 3
+Media: 0
+Visit: 2
+Group: WYNBERG
+Bible Study: 1
+**************************
